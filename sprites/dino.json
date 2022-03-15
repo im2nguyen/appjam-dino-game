@@ -1,0 +1,217 @@
+{
+  "dino": {
+    "x": 677,
+    "y": 3,
+    "width": 264,
+    "height": 46,
+    "sliceX": 6,
+    "anims": {
+      "stay": {
+        "from": 0,
+        "to": 0
+      },
+      "idle": {
+        "from": 1,
+        "to": 1
+      },
+      "run": {
+        "from": 2,
+        "to": 3,
+        "speed": 10,
+        "loop": true
+      },
+      "hit": {
+        "from": 4,
+        "to": 5,
+        "speed": 10,
+        "loop": true
+      }
+    }
+  },
+  "down": {
+    "x": 939,
+    "y": 20,
+    "width": 118,
+    "height": 27,
+    "sliceX": 2,
+    "anims": {
+      "run": {
+        "from": 0,
+        "to": 1,
+        "speed": 10,
+        "loop": true
+      },
+      "idle": {
+        "from": 0,
+        "to": 1,
+        "speed": 10,
+        "loop": true
+      },
+      "stay": {
+        "from": 0,
+        "to": 1,
+        "speed": 10,
+        "loop": true
+      },
+      "hit": {
+        "from": 0,
+        "to": 1,
+        "speed": 10,
+        "loop": true
+      }
+    }
+  },
+  "start": {
+    "x": 38,
+    "y": 2,
+    "width": 46,
+    "height": 47
+  },
+  "floor": {
+    "x": 4,
+    "y": 55,
+    "width": 1510,
+    "height": 30
+  },
+  "start_floor": {
+    "x": 4,
+    "y": 55,
+    "width": 604,
+    "height": 30
+  },
+  "cloud": {
+    "x": 85,
+    "y": 1,
+    "width": 48,
+    "height": 30
+  },
+  "0cactus1": {
+    "x": 226,
+    "y": 1,
+    "width": 19,
+    "height": 37
+  },
+  "0cactus2": {
+    "x": 245,
+    "y": 1,
+    "width": 34,
+    "height": 37
+  },
+  "0cactus3": {
+    "x": 279,
+    "y": 1,
+    "width": 53,
+    "height": 37
+  },
+  "1cactus1": {
+    "x": 332,
+    "y": 1,
+    "width": 25,
+    "height": 51
+  },
+  "1cactus2": {
+    "x": 357,
+    "y": 1,
+    "width": 50,
+    "height": 51
+  },
+  "1cactus3": {
+    "x": 407,
+    "y": 1,
+    "width": 75,
+    "height": 51
+  },
+  "0": {
+    "x": 480,
+    "y": 1,
+    "width": 15,
+    "height": 13
+  },
+  "1": {
+    "x": 494,
+    "y": 1,
+    "width": 9,
+    "height": 13
+  },
+  "2": {
+    "x": 503,
+    "y": 1,
+    "width": 10,
+    "height": 13
+  },
+  "3": {
+    "x": 513,
+    "y": 1,
+    "width": 10,
+    "height": 13
+  },
+  "4": {
+    "x": 523,
+    "y": 1,
+    "width": 10,
+    "height": 13
+  },
+  "5": {
+    "x": 533,
+    "y": 1,
+    "width": 10,
+    "height": 13
+  },
+  "6": {
+    "x": 543,
+    "y": 1,
+    "width": 10,
+    "height": 13
+  },
+  "7": {
+    "x": 553,
+    "y": 1,
+    "width": 10,
+    "height": 13
+  },
+  "8": {
+    "x": 563,
+    "y": 1,
+    "width": 10,
+    "height": 13
+  },
+  "9": {
+    "x": 573,
+    "y": 1,
+    "width": 10,
+    "height": 13
+  },
+  "hi": {
+    "x": 583,
+    "y": 1,
+    "width": 21,
+    "height": 13
+  },
+  "gameover": {
+    "x": 482,
+    "y": 15,
+    "width": 193,
+    "height": 11
+  },
+  "enemy": {
+    "x": 134,
+    "y": 1,
+    "width": 92,
+    "height": 42,
+    "sliceX": 2,
+    "anims": {
+      "fly": {
+        "from": 0,
+        "to": 1,
+        "speed": 4,
+        "loop": true
+      }
+    }
+  },
+  "icon": {
+    "x": 2,
+    "y": 1,
+    "width": 37,
+    "height": 35
+  }
+}
